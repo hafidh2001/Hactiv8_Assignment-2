@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1665498490933,
+    "email": "hafidh@gmail.com",
+    "password": "$2b$10$8OsSXjzzseqfW6muKccVCeOm6ng0TXjevb/8n9i2ClIj9pvCo8UK2",
+    "createdAt": "2022-10-11T14:28:10.933Z"
+  },
+  {
+    "id": 1665498555654,
+    "email": "fauzan@gmail.com",
+    "password": "$2b$10$E33E0X6MmcWgMyTZooos4eyh54UPWnsSCCjooZDvIInc/dEKDydbm",
+    "createdAt": "2022-10-11T14:29:15.654Z"
+  }
+]

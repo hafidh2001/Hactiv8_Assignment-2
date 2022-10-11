@@ -1,7 +1,7 @@
 ## POSTMAN
 
-[Link to import postman](https://www.getpostman.com/xxxx)
-![](xxx.png)
+[Link to import postman](https://www.getpostman.com/collections/6ed0d5bace2b72a155a7)
+![](Postman.png)
 
 ```bash
 # klik link and copy
