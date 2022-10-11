@@ -1,0 +1,30 @@
+{
+  "name": "assignment_2-build_first_api_using_jwt",
+  "version": "1.0.0",
+  "description": "[Link to import postman](https://www.getpostman.com/xxxx)\r ![](xxx.png)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafidh2001/Hactiv8_Assignment-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafidh2001/Hactiv8_Assignment-2/issues"
+  },
+  "homepage": "https://github.com/hafidh2001/Hactiv8_Assignment-2#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

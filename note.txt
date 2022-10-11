@@ -1,0 +1,25 @@
+***** add package.json
+    - npm init || npm init -y (to create package.json)
+
+***** install dependencies to package.json
+    - npm i express
+    - npm i cors
+    - npm i dotenv 
+    - npm i jsonwebtoken
+    - npm i bcrypt 
+
+***** install dev-dependencies to package.json
+    - npm i --save-dev nodemon
+
+***** setup module and main-page in package.json
+    - "type": "module", (to load ES module)
+    - "main": "index.js" (to set the main page)
+
+***** make main page
+    - touch index.js
+
+***** make base file project
+    - touch .gitignore (to add files/folders that are not pushed on github)
+    - touch .env (to store confidential data)
+    - touch .env.example (a copy of the variable declarations in .env)
+    - touch config.js (to declare the variables in .env)
